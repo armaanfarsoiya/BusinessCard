@@ -1,0 +1,19 @@
+.main{
+    width: 500px;
+    display: flex;
+    background-color: rgb(211, 232, 241);
+    border-bottom: 8px solid rgba(215, 7, 215, 0.307);
+    margin: 40px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image{
+    padding: 30px;
+}
+.img{
+    
+    width: 120px;
+}
+.dtls{
+    padding: 30px;
+    text-align: center;
+}
